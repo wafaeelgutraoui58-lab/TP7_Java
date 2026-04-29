@@ -6,5 +6,5 @@ Module : Java / JEE
 TP1 : Bases du langage Java
 Nom et Prénom : wafae elgutraoui
 CNE : D135331277
-GitHub :  https://github.com/wafaeelgutraoui58-lab/TP6_Java.git
+GitHub : https://github.com/wafaeelgutraoui58-lab/TP7_Java.git
 Année universitaire : 2026/2027
